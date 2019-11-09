@@ -8,7 +8,8 @@ Este deber�a ser un buen codigo
 
 close();
 \*-*/
- n.n
+ |n|
+ / \
 ttttt
 
 uuuuuu
