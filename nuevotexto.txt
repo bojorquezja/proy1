@@ -9,15 +9,10 @@ Este deber�a ser un buen codigo
 close();
 
 CORRECIÓN A LA MODIFICACION ATERIOR 
+
 AVANCE EN EL CODIGO 
 
+ESTA ES EN CORRECION (CODIGO)
 
-ttttt
 
-uuuuuu
-asas sdsadf
-asd
-asdasd
-
-asd
-
+bbbbbbbbbb
