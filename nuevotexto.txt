@@ -9,6 +9,7 @@ Este deber�a ser un buen codigo
 close();
 
 CORRECIÓN A LA MODIFICACION ATERIOR 
+ESTA ES EN CORRECION (CODIGO)
 
 
 ttttt
