@@ -7,7 +7,7 @@ PRUEBA 2
 Este deber�a ser un buen codigo
 
 close();
-
+correcciones :v
 
 ttttt
 
