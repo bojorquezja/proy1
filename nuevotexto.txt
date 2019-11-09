@@ -1,4 +1,4 @@
-nuevo texto 2
+﻿nuevo texto 2
 
 
 SEGUNDA MODIFICACION
@@ -7,6 +7,8 @@ PRUEBA 2
 Este deber�a ser un buen codigo
 
 close();
+
+CORRECIÓN A LA MODIFICACION ATERIOR 
 
 
 ttttt
