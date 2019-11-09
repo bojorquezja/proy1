@@ -4,7 +4,17 @@ nuevo texto 2
 SEGUNDA MODIFICACION
 PRUEBA 2
 
-Este debería ser un buen codigo
+Este deberï¿½a ser un buen codigo
 
 close();
+
+
+ttttt
+
+uuuuuu
+asas sdsadf
+asd
+asdasd
+
+asd
 
