@@ -8,7 +8,7 @@ Este deber�a ser un buen codigo
 
 close();
 correcciones :v
-
+avance codificacion
 ttttt
 
 uuuuuu
