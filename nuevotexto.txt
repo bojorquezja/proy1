@@ -1,6 +1,12 @@
 nuevo texto 2
 sadsad
 ZZZZ
+<<<<<<< HEAD
 UWUWUWUWUWWUUWUWUWUWUUW
 WUWUWU
+=======
+
+ttttt
+
+>>>>>>> upstream/master
 asd

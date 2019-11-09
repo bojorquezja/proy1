@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Holis +( ?_? )+  
+=======
+nuevo archivo
+hoy es la haketon
+
+
+sdsdsd
+>>>>>>> upstream/master
