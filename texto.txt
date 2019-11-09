@@ -1,2 +1,9 @@
 nuevo archivo
+<<<<<<< HEAD
 Hoy es sábado  de ....
+=======
+hoy es la haketon
+
+
+sdsdsd
+>>>>>>> upstream/master
